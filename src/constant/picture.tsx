@@ -1,10 +1,8 @@
 // IMAGE
-import Calendar from "@/assets/img/calendar.jpg";
 import pelatihanImg from "@/assets/img/pelatihan 3 1.jpg";
 import Ujikom1Img from "@/assets/img/ujikom 16 1.jpg";
 import Ujikom2Img from "@/assets/img/ujikom 6 1.jpg";
 import Pelatihan2Img from "@/assets/img/pelatihan 4 1.jpg";
-import StructureLSP from "@/assets/img/struktur-organisasi 1.png";
 import ServiceLSP from "@/assets/img/vector/lsp-section.svg";
 import BackgroundLSP from "@/assets/img/vector/background-section.svg";
 import VisiMisiLSP from "@/assets/img/vector/vm-section.svg";
@@ -31,12 +29,10 @@ import imgDokumentasi17 from "@/assets/img/dokumentasi/17.jpg";
 import imgDokumentasi18 from "@/assets/img/dokumentasi/18.jpg";
 
 export {
-  Calendar,
   pelatihanImg,
   Ujikom1Img,
   Ujikom2Img,
   Pelatihan2Img,
-  StructureLSP,
   ServiceLSP,
   BackgroundLSP,
   VisiMisiLSP,
